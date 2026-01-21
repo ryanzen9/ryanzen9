@@ -8,8 +8,6 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 大家好，我是 **Ryan**。我是一名来自中国的 JavaScript 和 Java 开发者。
 我在进行关于 **JavaScript**、**Node.js** 和 **Java** 的工作，欢迎联系我的邮箱一起交流。
 
-![Snake animation](https://raw.githubusercontent.com/rubyceng/rubyceng/output/github-contribution-grid-snake-dark.svg)
-
 >[Send Me Email.](mailto:rubyceng0326@gmail?subject=Hello,&body=)
 
 ---
