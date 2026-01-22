@@ -19,17 +19,17 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-497.75%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-497.74%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 16.2 kB Used in GitHub's Storage 
+> 📦 16.1 kB Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2026
+> 🏆 24 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -37,21 +37,21 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 3 mins        █████████████████░░░░░░░░   66.80 % 
-Markdown                 1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Prisma                   1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+TypeScript               3 hrs 22 mins       ██████████████████░░░░░░░   72.81 % 
+Prisma                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/01/2026 08:12:15 UTC
+ Last Updated on 22/01/2026 02:55:19 UTC
 <!--END_SECTION:waka-->
 
 ---
