@@ -17,7 +17,7 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-497.74%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -37,18 +37,17 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 30 mins        █████████████████████░░░░   84.43 % 
-Prisma                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/02/2026 03:14:37 UTC
+ Last Updated on 12/02/2026 03:14:22 UTC
 <!--END_SECTION:waka-->
 
 ---
