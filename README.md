@@ -37,17 +37,21 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Prisma                   2 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.26 % 
+TypeScript               2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.76 % 
+Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/02/2026 03:06:50 UTC
+ Last Updated on 25/02/2026 03:07:09 UTC
 <!--END_SECTION:waka-->
 
 ---
