@@ -37,23 +37,24 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               18 hrs 24 mins      █████████████████████░░░░   82.42 % 
-Prisma                   3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+TypeScript               19 hrs 34 mins      ████████████████████░░░░░   81.71 % 
+Prisma                   2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Bash                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 53 mins      ████████████████████░░░░░   80.13 % 
-Antigravity              2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-WebStorm                 2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+VS Code                  17 hrs 51 mins      ███████████████████░░░░░░   74.53 % 
+WebStorm                 2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Cursor                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Antigravity              1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 💻 Operating System: 
-Mac                      22 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/03/2026 03:09:14 UTC
+ Last Updated on 10/03/2026 03:03:45 UTC
 <!--END_SECTION:waka-->
 
 ---
