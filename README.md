@@ -17,15 +17,15 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-514.98%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-519.30%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 27.6 kB Used in GitHub's Storage 
  > 
-> 🏆 29 Contributions in the Year 2026
+> 🏆 30 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,24 +37,22 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 hrs              ████████████████░░░░░░░░░   65.17 % 
-Markdown                 3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Prisma                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-JSON                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-TSConfig                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+TypeScript               13 hrs 14 mins      ███████████████░░░░░░░░░░   60.12 % 
+Markdown                 4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Prisma                   2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+TSConfig                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 8 mins       ███████████████████░░░░░░   74.44 % 
-Cursor                   4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Antigravity              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-WebStorm                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+VS Code                  19 hrs 13 mins      ██████████████████████░░░   87.29 % 
+Cursor                   2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 
 💻 Operating System: 
-Mac                      23 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      22 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/03/2026 03:12:48 UTC
+ Last Updated on 17/03/2026 03:08:57 UTC
 <!--END_SECTION:waka-->
 
 ---
