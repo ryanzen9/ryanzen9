@@ -15,7 +15,7 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-957%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -37,22 +37,21 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 hrs 14 mins      ███████████████░░░░░░░░░░   60.12 % 
-Markdown                 4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Prisma                   2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-TSConfig                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               13 hrs 22 mins      ████████████████░░░░░░░░░   64.55 % 
+Markdown                 3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Prisma                   3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Dart                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 13 mins      ██████████████████████░░░   87.29 % 
-Cursor                   2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+VS Code                  20 hrs 43 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      20 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/03/2026 03:08:57 UTC
+ Last Updated on 18/03/2026 03:12:02 UTC
 <!--END_SECTION:waka-->
 
 ---
