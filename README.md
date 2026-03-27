@@ -15,7 +15,7 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-988%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-994%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -25,11 +25,11 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 > 📦 28.0 kB Used in GitHub's Storage 
  > 
-> 🏆 44 Contributions in the Year 2026
+> 🏆 45 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -37,23 +37,23 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 5 mins       █████████████░░░░░░░░░░░░   51.06 % 
-Markdown                 8 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.26 % 
-Prisma                   1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Bash                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+TypeScript               13 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.77 % 
+Markdown                 10 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   36.55 % 
+Prisma                   1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 56 mins      ██████████████████░░░░░░░   72.25 % 
-Cursor                   5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Trae                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+VS Code                  20 hrs 53 mins      ██████████████████░░░░░░░   73.19 % 
+Cursor                   5 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Trae                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 
 💻 Operating System: 
-Mac                      27 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2026 03:13:22 UTC
+ Last Updated on 27/03/2026 03:14:49 UTC
 <!--END_SECTION:waka-->
 
 ---
