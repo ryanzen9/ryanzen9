@@ -15,7 +15,7 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C031%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C030%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -37,22 +37,22 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 hrs 23 mins      ████████████████░░░░░░░░░   62.13 % 
-Markdown                 2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JSON                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Prisma                   1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               14 hrs 13 mins      ██████████████░░░░░░░░░░░   54.71 % 
+JSON                     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Markdown                 3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Prisma                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Other                    1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 11 mins      █████████████████████████   99.26 % 
-Unknown Editor           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+VS Code                  25 hrs 48 mins      █████████████████████████   99.25 % 
+Unknown Editor           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Mac                      26 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2026 03:15:58 UTC
+ Last Updated on 07/04/2026 03:14:45 UTC
 <!--END_SECTION:waka-->
 
 ---
