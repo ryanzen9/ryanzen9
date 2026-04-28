@@ -23,9 +23,9 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 **🐱 My GitHub Data** 
 
-> 📦 18.6 kB Used in GitHub's Storage 
+> 📦 19.4 kB Used in GitHub's Storage 
  > 
-> 🏆 81 Contributions in the Year 2026
+> 🏆 85 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,23 +37,23 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               22 hrs 14 mins      █████████████████░░░░░░░░   67.78 % 
-JSON                     3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Markdown                 2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Other                    2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+TypeScript               23 hrs 45 mins      █████████████████░░░░░░░░   66.12 % 
+JSON                     3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Markdown                 2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Other                    2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Prisma                   1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 6 mins       ███████████████████████░░   91.76 % 
-Unknown Editor           2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-WebStorm                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+VS Code                  32 hrs 29 mins      ███████████████████████░░   90.45 % 
+Unknown Editor           2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+WebStorm                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Mac                      32 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/04/2026 03:17:24 UTC
+ Last Updated on 28/04/2026 03:18:46 UTC
 <!--END_SECTION:waka-->
 
 ---
