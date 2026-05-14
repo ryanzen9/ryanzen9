@@ -15,44 +15,26 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C174%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C177%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-648.59%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-659.54%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 20.4 kB Used in GitHub's Storage 
+> 📦 20.5 kB Used in GitHub's Storage 
  > 
-> 🏆 116 Contributions in the Year 2026
+> 🏆 124 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-TypeScript               14 hrs 9 mins       ███████████░░░░░░░░░░░░░░   43.02 % 
-Markdown                 4 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Other                    4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-JSON                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-JavaScript               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-
-🔥 Editors: 
-VS Code                  30 hrs 35 mins      ███████████████████████░░   92.96 % 
-Unknown Editor           2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-
-💻 Operating System: 
-Mac                      32 hrs 54 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 13/05/2026 03:19:50 UTC
+ Last Updated on 14/05/2026 03:18:58 UTC
 <!--END_SECTION:waka-->
 
 ---
