@@ -15,17 +15,15 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C238%20hrs%2031%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-693.05%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-693.09%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 20.9 kB Used in GitHub's Storage 
  > 
-> 🏆 161 Contributions in the Year 2026
+> 🏆 162 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,26 +31,8 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
  > 
 > 🔑 0 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-TypeScript               18 hrs 21 mins      ██████████████████░░░░░░░   72.37 % 
-JSON                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-TOML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-JavaScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-
-🔥 Editors: 
-VS Code                  24 hrs 36 mins      ████████████████████████░   97.02 % 
-Claude Code              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-
-💻 Operating System: 
-Mac                      25 hrs 21 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/05/2026 03:23:24 UTC
+ Last Updated on 29/05/2026 03:22:25 UTC
 <!--END_SECTION:waka-->
 
 ---
