@@ -15,6 +15,8 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C250%20hrs%2045%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-693.09%20thousand%20lines%20of%20code-blue?style=flat)
@@ -31,8 +33,26 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
  > 
 > 🔑 0 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 29/05/2026 03:22:25 UTC
+```text
+💬 Programming Languages: 
+TypeScript               22 hrs 30 mins      ███████████████████░░░░░░   77.96 % 
+Markdown                 1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+TOML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Prisma                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+
+🔥 Editors: 
+VS Code                  28 hrs 14 mins      ████████████████████████░   97.82 % 
+Claude Code              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+
+💻 Operating System: 
+Mac                      28 hrs 51 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/05/2026 03:20:51 UTC
 <!--END_SECTION:waka-->
 
 ---
