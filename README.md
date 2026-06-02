@@ -19,19 +19,19 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-278.72%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-290.34%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 18.8 kB Used in GitHub's Storage 
+> 📦 18.9 kB Used in GitHub's Storage 
  > 
-> 🏆 168 Contributions in the Year 2026
+> 🏆 179 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 25 Public Repositories 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 0 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -52,7 +52,7 @@ Mac                      30 hrs 6 mins       ███████████�
 ```
 
 
- Last Updated on 01/06/2026 03:22:36 UTC
+ Last Updated on 02/06/2026 03:23:59 UTC
 <!--END_SECTION:waka-->
 
 ---
