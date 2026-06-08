@@ -31,8 +31,26 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
  > 
 > 🔑 0 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 07/06/2026 03:21:16 UTC
+```text
+💬 Programming Languages: 
+TypeScript               15 hrs 9 mins       █████████████████░░░░░░░░   69.10 % 
+JavaScript               1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+
+🔥 Editors: 
+VS Code                  21 hrs 21 mins      ████████████████████████░   97.35 % 
+Claude Code              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+
+💻 Operating System: 
+Mac                      21 hrs 56 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 08/06/2026 03:22:34 UTC
 <!--END_SECTION:waka-->
 
 ---
