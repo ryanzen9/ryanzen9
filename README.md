@@ -37,23 +37,23 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 hrs 23 mins      ████████████████████░░░░░   78.62 % 
-CSS                      1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Prisma                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+TypeScript               13 hrs 27 mins      ████████████████████░░░░░   79.53 % 
+CSS                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Prisma                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 7 mins       ███████████████████████░░   92.53 % 
-Claude Code              1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+VS Code                  15 hrs 27 mins      ███████████████████████░░   91.36 % 
+Claude Code              1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      19 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/06/2026 03:21:08 UTC
+ Last Updated on 21/06/2026 03:23:18 UTC
 <!--END_SECTION:waka-->
 
 ---
