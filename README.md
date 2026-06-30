@@ -25,7 +25,7 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 > 📦 19.6 kB Used in GitHub's Storage 
  > 
-> 🏆 220 Contributions in the Year 2026
+> 🏆 221 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,22 +37,21 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 10 mins       ████████████████░░░░░░░░░   62.73 % 
-JSON                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Prisma                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+TypeScript               9 hrs 57 mins       ██████████████████░░░░░░░   71.41 % 
+Markdown                 1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Docker                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 1 min        █████████████████████████   99.99 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+VS Code                  13 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/06/2026 03:22:33 UTC
+ Last Updated on 30/06/2026 03:21:02 UTC
 <!--END_SECTION:waka-->
 
 ---
