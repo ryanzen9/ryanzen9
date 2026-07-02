@@ -15,7 +15,7 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C340%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C346%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -37,21 +37,21 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 40 mins      ███████████████████░░░░░░   74.98 % 
-Markdown                 1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Docker                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+TypeScript               15 hrs 4 mins       █████████████████░░░░░░░░   69.54 % 
+Markdown                 1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+YAML                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      19 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/07/2026 03:22:29 UTC
+ Last Updated on 02/07/2026 03:20:20 UTC
 <!--END_SECTION:waka-->
 
 ---
