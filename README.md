@@ -15,17 +15,17 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C373%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C378%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-347.06%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-472.63%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 20.0 kB Used in GitHub's Storage 
+> 📦 20.1 kB Used in GitHub's Storage 
  > 
-> 🏆 231 Contributions in the Year 2026
+> 🏆 243 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,22 +37,22 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 hrs 40 mins      █████████████████░░░░░░░░   68.37 % 
-JSON                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Markdown                 1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-YAML                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+TypeScript               13 hrs 53 mins      ███████████████░░░░░░░░░░   61.43 % 
+JSON                     3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Markdown                 2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 52 mins      █████████████████████████   99.76 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+VS Code                  22 hrs 34 mins      █████████████████████████   99.90 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      22 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/07/2026 03:18:38 UTC
+ Last Updated on 11/07/2026 03:17:28 UTC
 <!--END_SECTION:waka-->
 
 ---
