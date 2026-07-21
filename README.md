@@ -19,11 +19,11 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-564.04%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-565.00%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 20.2 kB Used in GitHub's Storage 
+> 📦 20.3 kB Used in GitHub's Storage 
  > 
 > 🏆 290 Contributions in the Year 2026
  > 
@@ -37,21 +37,21 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               17 hrs 47 mins      █████████████████░░░░░░░░   66.97 % 
-Markdown                 4 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-JSON                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+TypeScript               16 hrs 53 mins      ████████████████░░░░░░░░░   62.60 % 
+Markdown                 3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+JSON                     3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+CSS                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      26 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/07/2026 03:20:33 UTC
+ Last Updated on 21/07/2026 03:18:31 UTC
 <!--END_SECTION:waka-->
 
 ---
