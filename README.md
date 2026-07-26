@@ -15,15 +15,17 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C442%20hrs%2026%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-572.29%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-572.46%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 21.9 kB Used in GitHub's Storage 
  > 
-> 🏆 294 Contributions in the Year 2026
+> 🏆 296 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,21 +37,22 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 hrs 22 mins      ███████████████░░░░░░░░░░   59.74 % 
-CSS                      4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-JSON                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Other                    1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+TypeScript               16 hrs 27 mins      ███████████████░░░░░░░░░░   60.12 % 
+CSS                      4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Other                    2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+JSON                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  27 hrs 21 mins      █████████████████████████   99.94 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      25 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/07/2026 03:18:09 UTC
+ Last Updated on 26/07/2026 03:17:43 UTC
 <!--END_SECTION:waka-->
 
 ---
