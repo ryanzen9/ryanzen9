@@ -39,45 +39,46 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               20 hrs 49 mins      ████████████████████░░░░░   78.27 % 
-SQL                      1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-YAML                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               18 hrs 30 mins      ███████████████████░░░░░░   75.04 % 
+SQL                      1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 46 mins      ███████████████████████░░   93.12 % 
-DataGrip                 1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+VS Code                  22 hrs 41 mins      ███████████████████████░░   92.06 % 
+DataGrip                 1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      26 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 12 mins (42.1%)
+⏱ AI Coding Time: 11 hrs 20 mins (45.98%)
 
-✍️ 2,467 lines written by AI, 1,847 lines written by hand (57.19% AI-written)
+✍️ 2,318 lines written by AI, 1,546 lines written by hand (59.99% AI-written)
 
-🔤 171,276,114 Input Tokens, 2,024,376 Output Tokens
+🔤 135,378,174 Input Tokens, 1,782,622 Output Tokens
 
-💵 $903.67 Estimated AI Cost This Week
+💵 $722.92 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 160 AI Prompts
+🧠 36 AI Sessions, 153 AI Prompts
 
-GPT                      2,947 lines         █████████████████████████   100.00 % 
+GPT                      2,725 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.19% of written lines came from AI
-📚 Verbose Prompter — average 9,461 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 49.76% of changed lines were hand-edited
+⚖️ Balanced with AI — 59.99% of written lines came from AI
+📚 Verbose Prompter — average 8,983 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 46.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/08/2026 03:49:54 UTC
+ Last Updated on 11/08/2026 03:40:02 UTC
 <!--END_SECTION:waka-->
 
 ---
