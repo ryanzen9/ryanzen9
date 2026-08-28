@@ -15,9 +15,9 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C518%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C523%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-207%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-207%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -39,48 +39,49 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               17 hrs 34 mins      ████████████████░░░░░░░░░   63.34 % 
-Dart                     2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-SQL                      2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Prisma                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+TypeScript               16 hrs 1 min        ███████████████░░░░░░░░░░   59.21 % 
+Dart                     3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+SQL                      2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Prisma                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 1 min        ████████████████████░░░░░   79.41 % 
-Codex Vscode             4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-DataGrip                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Codex CLI                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+VS Code                  20 hrs 43 mins      ███████████████████░░░░░░   76.61 % 
+Codex Vscode             4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+DataGrip                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Codex CLI                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 💻 Operating System: 
-Mac                      27 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 11 mins (43.96%)
+⏱ AI Coding Time: 13 hrs 14 mins (48.92%)
 
-✍️ 4,593 lines written by AI, 3,921 lines written by hand (53.95% AI-written)
+✍️ 6,821 lines written by AI, 2,358 lines written by hand (74.31% AI-written)
 
-🔤 6,106,478 Input Tokens, 880,056 Output Tokens
+🔤 6,564,408 Input Tokens, 1,009,238 Output Tokens
 
-💵 $108.81 Estimated AI Cost This Week
+💵 $113.40 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 126 AI Prompts
+🧠 35 AI Sessions, 145 AI Prompts
 
-GPT                      4,819 lines         █████████████████████████   100.00 % 
+GPT                      7,141 lines         █████████████████████████   98.65 % 
+Glm                      98 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.95% of written lines came from AI
-📚 Verbose Prompter — average 6,514 characters per prompt
+🤖 AI-Driven — 74.31% of written lines came from AI
+📚 Verbose Prompter — average 7,433 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 62.55% of changed lines were hand-edited
+🚀 High AI Trust — 43.44% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/08/2026 03:45:17 UTC
+ Last Updated on 28/08/2026 04:42:30 UTC
 <!--END_SECTION:waka-->
 
 ---
