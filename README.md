@@ -21,13 +21,13 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-619.36%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-620.54%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 23.3 kB Used in GitHub's Storage 
+> 📦 23.4 kB Used in GitHub's Storage 
  > 
-> 🏆 355 Contributions in the Year 2026
+> 🏆 364 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,48 +39,50 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 hrs 39 mins      ██████████████░░░░░░░░░░░   54.31 % 
-Dart                     3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-SQL                      1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Prisma                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Markdown                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+TypeScript               17 hrs 7 mins       ████████████████░░░░░░░░░   62.87 % 
+Markdown                 2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+SQL                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Dart                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Prisma                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 48 mins      ████████████████████░░░░░   78.79 % 
-Codex Vscode             4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-DataGrip                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+VS Code                  22 hrs 13 mins      ████████████████████░░░░░   81.58 % 
+Codex Vscode             4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+DataGrip                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      25 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      27 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 59 mins (51.65%)
+⏱ AI Coding Time: 14 hrs 32 mins (53.34%)
 
-✍️ 8,993 lines written by AI, 2,428 lines written by hand (78.74% AI-written)
+✍️ 7,578 lines written by AI, 2,764 lines written by hand (73.27% AI-written)
 
-🔤 6,969,162 Input Tokens, 1,199,921 Output Tokens
+🔤 6,782,599 Input Tokens, 1,224,026 Output Tokens
 
-💵 $118.63 Estimated AI Cost This Week
+💵 $121.72 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 141 AI Prompts
+🧠 39 AI Sessions, 176 AI Prompts
 
-GPT                      9,187 lines         █████████████████████████   98.94 % 
-Glm                      98 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+GPT                      7,849 lines         █████████████████████████   98.06 % 
+Glm                      98 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Deepseek                 57 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.74% of written lines came from AI
-📚 Verbose Prompter — average 8,064 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 36.58% of changed lines were hand-edited
+🤖 AI-Driven — 73.27% of written lines came from AI
+📚 Verbose Prompter — average 7,101 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 41.5% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/08/2026 02:13:54 UTC
+ Last Updated on 01/09/2026 02:15:13 UTC
 <!--END_SECTION:waka-->
 
 ---
