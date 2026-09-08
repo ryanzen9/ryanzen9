@@ -39,51 +39,51 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 hrs 51 mins      █████████████░░░░░░░░░░░░   52.93 % 
-Dart                     4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Markdown                 4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-JSON                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+TypeScript               14 hrs 27 mins      █████████████░░░░░░░░░░░░   52.12 % 
+Dart                     5 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Markdown                 3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+YAML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 41 mins      █████████████████████░░░░   82.38 % 
-Codex Vscode             5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Codex Exec               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-DataGrip                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+VS Code                  23 hrs 22 mins      █████████████████████░░░░   84.25 % 
+Codex Vscode             4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Codex Exec               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+DataGrip                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      29 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 3 mins (53.55%)
+⏱ AI Coding Time: 12 hrs 21 mins (44.58%)
 
-✍️ 9,490 lines written by AI, 2,479 lines written by hand (79.29% AI-written)
+✍️ 9,081 lines written by AI, 2,380 lines written by hand (79.23% AI-written)
 
-🔤 91,053,172 Input Tokens, 1,759,276 Output Tokens
+🔤 90,888,747 Input Tokens, 1,505,210 Output Tokens
 
-💵 $386.13 Estimated AI Cost This Week
+💵 $370.45 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 239 AI Prompts
+🧠 44 AI Sessions, 194 AI Prompts
 
-GPT                      10,123 lines        █████████████████████████   99.26 % 
-Deepseek                 75 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+GPT                      9,654 lines         █████████████████████████   99.81 % 
+Deepseek                 18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 Open                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.29% of written lines came from AI
-📚 Verbose Prompter — average 10,398 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 35.36% of changed lines were hand-edited
+🤖 AI-Driven — 79.23% of written lines came from AI
+📚 Verbose Prompter — average 15,030 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 34.93% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/09/2026 02:14:22 UTC
+ Last Updated on 08/09/2026 02:12:51 UTC
 <!--END_SECTION:waka-->
 
 ---
