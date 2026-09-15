@@ -21,13 +21,13 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-609.88%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-610.06%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 23.6 kB Used in GitHub's Storage 
  > 
-> 🏆 380 Contributions in the Year 2026
+> 🏆 384 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,50 +39,50 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 39 mins       ████████████░░░░░░░░░░░░░   47.54 % 
-Markdown                 3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Dart                     2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-YAML                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-CSS                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+TypeScript               11 hrs 29 mins      █████████████░░░░░░░░░░░░   53.37 % 
+Markdown                 3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Dart                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+YAML                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+CSS                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 9 mins       ███████████████████░░░░░░   74.56 % 
-Codex Vscode             4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Codex CLI                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-DataGrip                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+VS Code                  14 hrs 42 mins      █████████████████░░░░░░░░   68.35 % 
+Codex Vscode             6 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.68 % 
+Codex CLI                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+DataGrip                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      20 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 30 mins (51.68%)
+⏱ AI Coding Time: 13 hrs 36 mins (63.25%)
 
-✍️ 9,960 lines written by AI, 2,330 lines written by hand (81.04% AI-written)
+✍️ 10,935 lines written by AI, 2,141 lines written by hand (83.63% AI-written)
 
-🔤 6,460,718 Input Tokens, 931,322 Output Tokens
+🔤 7,546,231 Input Tokens, 1,126,187 Output Tokens
 
-💵 $110.96 Estimated AI Cost This Week
+💵 $127.24 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 214 AI Prompts
+🧠 61 AI Sessions, 316 AI Prompts
 
-GPT                      10,034 lines        █████████████████████████   99.77 % 
-Github-Copilot           23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+GPT                      10,462 lines        ███████████████████████░░   93.64 % 
+Deepseek                 687 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Github-Copilot           23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.04% of written lines came from AI
-📚 Verbose Prompter — average 18,666 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 21.5% of changed lines were hand-edited
+🤖 AI-Driven — 83.63% of written lines came from AI
+📚 Verbose Prompter — average 16,462 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 18.12% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/09/2026 02:15:40 UTC
+ Last Updated on 15/09/2026 02:14:09 UTC
 <!--END_SECTION:waka-->
 
 ---
