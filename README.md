@@ -21,13 +21,13 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-700.88%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-704.83%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 24.9 kB Used in GitHub's Storage 
  > 
-> 🏆 465 Contributions in the Year 2026
+> 🏆 474 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,51 +39,51 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   38.36 % 
-Markdown                 8 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.65 % 
-Other                    2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-JSON                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-CSS                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+TypeScript               10 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   40.03 % 
+Markdown                 8 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.21 % 
+Other                    2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+JSON                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+CSS                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 18 mins      ██████████████░░░░░░░░░░░   56.89 % 
-Codex Vscode             11 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   41.95 % 
-Copilot CLI              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+VS Code                  15 hrs 7 mins       ██████████████░░░░░░░░░░░   56.39 % 
+Codex Vscode             11 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   41.30 % 
+DataGrip                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Copilot CLI              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Open                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      26 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 27 mins (79.71%)
+⏱ AI Coding Time: 21 hrs 1 min (78.43%)
 
-✍️ 24,150 lines written by AI, 958 lines written by hand (96.18% AI-written)
+✍️ 21,028 lines written by AI, 914 lines written by hand (95.83% AI-written)
 
-🔤 15,753,448 Input Tokens, 1,909,828 Output Tokens
+🔤 15,577,937 Input Tokens, 1,865,339 Output Tokens
 
-💵 $325.34 Estimated AI Cost This Week
+💵 $363.75 Estimated AI Cost This Week
 
-🧠 95 AI Sessions, 1061 AI Prompts
+🧠 98 AI Sessions, 1039 AI Prompts
 
-GPT                      25,015 lines        █████████████████████████   99.94 % 
+GPT                      21,270 lines        ████████████████████████░   97.09 % 
+Deepseek                 624 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 Github-Copilot           14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.18% of written lines came from AI
-📚 Verbose Prompter — average 10,232 characters per prompt
+🤖 AI-Driven — 95.83% of written lines came from AI
+📚 Verbose Prompter — average 9,045 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 7.11% of changed lines were hand-edited
+🚀 High AI Trust — 7.39% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 02:19:58 UTC
+ Last Updated on 28/09/2026 02:24:59 UTC
 <!--END_SECTION:waka-->
 
 ---
