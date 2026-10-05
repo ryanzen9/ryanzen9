@@ -39,49 +39,49 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   41.40 % 
-Markdown                 4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-SQL                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Swift                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+TypeScript               5 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.71 % 
+Markdown                 3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+SQL                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Swift                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.55 % 
-Codex Vscode             7 hrs 48 mins       ███████████░░░░░░░░░░░░░░   43.96 % 
-DataGrip                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VS Code                  6 hrs 48 mins       ████████████░░░░░░░░░░░░░   47.91 % 
+Codex Vscode             6 hrs 32 mins       ████████████░░░░░░░░░░░░░   46.11 % 
+DataGrip                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 48 mins (72.06%)
+⏱ AI Coding Time: 10 hrs 46 mins (75.88%)
 
-✍️ 9,860 lines written by AI, 1,449 lines written by hand (87.19% AI-written)
+✍️ 8,806 lines written by AI, 1,276 lines written by hand (87.34% AI-written)
 
-🔤 7,630,522 Input Tokens, 1,059,977 Output Tokens
+🔤 6,330,530 Input Tokens, 929,635 Output Tokens
 
-💵 $183.19 Estimated AI Cost This Week
+💵 $158.80 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 616 AI Prompts
+🧠 50 AI Sessions, 550 AI Prompts
 
-Deepseek                 5,491 lines         █████████████░░░░░░░░░░░░   53.16 % 
-GPT                      4,838 lines         ████████████░░░░░░░░░░░░░   46.84 % 
+Deepseek                 4,867 lines         █████████████░░░░░░░░░░░░   52.85 % 
+GPT                      4,342 lines         ████████████░░░░░░░░░░░░░   47.15 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.19% of written lines came from AI
-📚 Verbose Prompter — average 6,497 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 21.79% of changed lines were hand-edited
+🤖 AI-Driven — 87.34% of written lines came from AI
+📚 Verbose Prompter — average 6,469 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 22.6% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 02:51:21 UTC
+ Last Updated on 05/10/2026 02:28:14 UTC
 <!--END_SECTION:waka-->
 
 ---
