@@ -39,46 +39,45 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   38.22 % 
-Markdown                 2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-JSON                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Swift                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Markdown                 2 hrs 26 mins       █████████████░░░░░░░░░░░░   50.51 % 
+TypeScript               1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+JSON                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+SQL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 27 mins       ██████████████░░░░░░░░░░░   54.74 % 
-Codex Vscode             4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.26 % 
+VS Code                  2 hrs 31 mins       █████████████░░░░░░░░░░░░   52.10 % 
+Codex Vscode             2 hrs 18 mins       ████████████░░░░░░░░░░░░░   47.90 % 
 
 💻 Operating System: 
-Mac                      9 hrs 58 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 45 mins (77.74%)
+⏱ AI Coding Time: 3 hrs 58 mins (82.31%)
 
-✍️ 8,110 lines written by AI, 662 lines written by hand (92.45% AI-written)
+✍️ 792 lines written by AI, 202 lines written by hand (79.68% AI-written)
 
-🔤 4,923,931 Input Tokens, 798,077 Output Tokens
+🔤 2,832,853 Input Tokens, 371,052 Output Tokens
 
-💵 $146.54 Estimated AI Cost This Week
+💵 $125.69 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 416 AI Prompts
+🧠 18 AI Sessions, 310 AI Prompts
 
-Deepseek                 4,867 lines         ██████████████░░░░░░░░░░░   57.41 % 
-GPT                      3,610 lines         ███████████░░░░░░░░░░░░░░   42.59 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 4,867 lines         █████████████████████░░░░   85.90 % 
+GPT                      799 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.45% of written lines came from AI
-📚 Verbose Prompter — average 6,863 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 14.04% of changed lines were hand-edited
+🤖 AI-Driven — 79.68% of written lines came from AI
+📚 Verbose Prompter — average 6,564 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 22.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 02:22:02 UTC
+ Last Updated on 07/10/2026 02:26:17 UTC
 <!--END_SECTION:waka-->
 
 ---
