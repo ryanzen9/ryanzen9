@@ -19,15 +19,15 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-324%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-781.40%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-787.88%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 27.8 kB Used in GitHub's Storage 
+> 📦 27.9 kB Used in GitHub's Storage 
  > 
-> 🏆 601 Contributions in the Year 2026
+> 🏆 605 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,51 +39,51 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               19 hrs 27 mins      ███████████████░░░░░░░░░░   58.75 % 
-Markdown                 4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-JSON                     2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Other                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+TypeScript               17 hrs 24 mins      ██████████████░░░░░░░░░░░   55.38 % 
+Markdown                 4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+JSON                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Other                    1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+HTML                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🔥 Editors: 
-Codex Vscode             15 hrs 54 mins      ████████████░░░░░░░░░░░░░   48.05 % 
-VS Code                  13 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.57 % 
-Opencode Cli             2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Claude Code              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Antigravity CLI          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Codex Vscode             15 hrs 18 mins      ████████████░░░░░░░░░░░░░   48.70 % 
+VS Code                  12 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   40.23 % 
+Opencode Cli             2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Claude Code              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Antigravity CLI          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Mac                      33 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      31 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 13 mins (70.12%)
+⏱ AI Coding Time: 24 hrs 11 mins (76.96%)
 
-✍️ 29,533 lines written by AI, 988 lines written by hand (96.76% AI-written)
+✍️ 31,718 lines written by AI, 1,102 lines written by hand (96.64% AI-written)
 
-🔤 16,046,902 Input Tokens, 2,564,071 Output Tokens
+🔤 16,283,118 Input Tokens, 2,812,803 Output Tokens
 
-💵 $233.79 Estimated AI Cost This Week
+💵 $242.23 Estimated AI Cost This Week
 
-🧠 89 AI Sessions, 264 AI Prompts
+🧠 92 AI Sessions, 272 AI Prompts
 
-GPT                      13,998 lines        ████████████░░░░░░░░░░░░░   46.00 % 
-Open                     7,420 lines         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Gemini                   4,164 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-DeepSeek                 3,427 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Opus                     1,424 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+GPT                      16,167 lines        ████████████░░░░░░░░░░░░░   49.59 % 
+Open                     7,420 lines         ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Gemini                   4,164 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+DeepSeek                 3,427 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Opus                     1,424 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.76% of written lines came from AI
-📄 Detailed Prompter — average 570 characters per prompt
+🤖 AI-Driven — 96.64% of written lines came from AI
+📄 Detailed Prompter — average 558 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.37% of changed lines were hand-edited
+🚀 High AI Trust — 7.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/10/2026 02:19:58 UTC
+ Last Updated on 20/10/2026 02:16:29 UTC
 <!--END_SECTION:waka-->
 
 ---
