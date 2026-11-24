@@ -15,6 +15,10 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C801%20hrs%2035%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-401%20hrs%203%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-845.66%20thousand%20lines%20of%20code-blue?style=flat)
@@ -35,45 +39,46 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 49 mins      █████████████████░░░░░░░░   67.50 % 
-Bash                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Prisma                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+TypeScript               15 hrs 11 mins      ██████████████████░░░░░░░   71.66 % 
+Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Makefile                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 17 mins      ████████████████████░░░░░   78.75 % 
-Codex Vscode             4 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Cursor                   15 hrs 57 mins      ███████████████████░░░░░░   75.32 % 
+Codex Vscode             5 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
 
 💻 Operating System: 
-Mac                      21 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 30 mins (79.68%)
+⏱ AI Coding Time: 16 hrs 49 mins (79.4%)
 
-✍️ 2,802 lines written by AI, 110 lines written by hand (96.22% AI-written)
+✍️ 3,061 lines written by AI, 107 lines written by hand (96.62% AI-written)
 
-🔤 6,350,438 Input Tokens, 617,069 Output Tokens
+🔤 6,928,278 Input Tokens, 677,335 Output Tokens
 
-💵 $155.66 Estimated AI Cost This Week
+💵 $201.62 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 255 AI Prompts
+🧠 65 AI Sessions, 258 AI Prompts
 
-GPT                      2,188 lines         █████████████████░░░░░░░░   67.43 % 
-Grok                     1,057 lines         ████████░░░░░░░░░░░░░░░░░   32.57 % 
+GPT                      2,854 lines         █████████████████████░░░░   83.84 % 
+Grok                     550 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.22% of written lines came from AI
-📚 Verbose Prompter — average 1,683 characters per prompt
+🤖 AI-Driven — 96.62% of written lines came from AI
+📚 Verbose Prompter — average 1,943 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.45% of changed lines were hand-edited
+🚀 High AI Trust — 5.26% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/11/2026 06:09:44 UTC
+ Last Updated on 24/11/2026 02:12:16 UTC
 <!--END_SECTION:waka-->
 
 ---
